@@ -1,0 +1,25 @@
+{
+  "name": "sweet-tooth",
+  "version": "1.0.0",
+  "description": "small ass 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnorerling/Sweet-tooth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arnorerling/Sweet-tooth/issues"
+  },
+  "homepage": "https://github.com/arnorerling/Sweet-tooth#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "request": "^2.88.0",
+    "save": "^2.4.0"
+  }
+}
